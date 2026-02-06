@@ -41,7 +41,7 @@ Hardware Used: Tested on a system with Intel Core i7 and 16GB RAM
 
 ##How to Use
 Clone the Repository:
-git clone https://github.com/yaradarawsheh2004-ysd/Malicious-URL-Detection.git
+git clone https://github.com/yaradarawsheh2004-ysd/Malicious-URL-Detection.git](https://github.com/yaradarawsheh2004-ysd/Machine-learning-based-approach-for-detecting-malicious-URLs-in-social-media-platforms.git
 Install Dependencies:
 pip install -r requirements.txt
 Run the Application: Activate your environment and run the server to access the detection tool via localhost
