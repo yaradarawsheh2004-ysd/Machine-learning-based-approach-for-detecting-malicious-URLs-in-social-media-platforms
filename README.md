@@ -51,6 +51,6 @@ The results demonstrate that ensemble-based models like Random Forest are highly
 
 ##Project Team
 
-Author: Yara Darawsheh 
+Author: Yara Darawsheh  & Salam Metleq
 Supervisors: Prof. Farah Zawaideh & Dr. Motasem Abu-Dawas 
 Institution: Irbid National University, Faculty of Science and IT
